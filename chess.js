@@ -2758,8 +2758,8 @@ const observer = new MutationObserver((mutationsList, observer) => {
     }
 });
 
-/*
 alert('start')
+/*
 const code = (await (await fetch("https://nmrugg.github.io/kingdom/js/stockfish6.js")).text())
 alert(code.length)
 var blob = new Blob([code], {type: 'application/javascript'});
