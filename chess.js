@@ -3,7 +3,7 @@
 // @namespace   vmp
 // @match       https://www.chess.com/*
 // @grant       none
-// @version     3.0.0
+// @version     3.0.1
 // @author      vmp
 // @description chess
 // @run-at      document-start
